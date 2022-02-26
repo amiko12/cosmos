@@ -7,7 +7,9 @@
         font-size: 18px;
         line-height: 1, 2;
     }
-    
+.header-p{
+    text-align: center;
+}
 #hiking {
     background-image: url(../images/tree-gc8c56d141_1280.jpg);
     width: 100%;
